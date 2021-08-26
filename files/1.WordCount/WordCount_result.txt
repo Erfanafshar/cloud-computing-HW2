@@ -1,0 +1,13 @@
+are 3
+bad 2
+better 1
+erf 3
+erfan 1
+fine 1
+good 5
+hi 2
+how 2
+is 2
+or 1
+thanks 1
+you 4
